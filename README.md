@@ -25,6 +25,8 @@ The project uses a dataset file named `colleges.csv`, which contains loan-relate
 
 Each row in the CSV represents a specific **college branch** and the **loan offer** details available for students in that branch.
 
+### 🔍 Sample Entries
+
 ### 📁 Columns
 
 | Column Name       | Description                                                                 |
@@ -36,7 +38,6 @@ Each row in the CSV represents a specific **college branch** and the **loan offe
 | `Interest Rate`   | Interest rate offered for the loan (e.g., "7.5%")                           |
 | `Collateral`      | Whether collateral is required ("Yes" or "No")                              |
 
-### 🔍 Sample Entries
 
 **🏃 How to Run**
 
@@ -93,6 +94,7 @@ Got questions, feedback, or want to collaborate? Reach out!
 M Kathiravan
 
 ✉️ kathiravan.m2025@vitstudent.ac.in
+
 
 
 
