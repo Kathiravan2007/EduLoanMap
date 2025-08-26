@@ -21,20 +21,13 @@
 
 **Clone this repo:**
 
-*git clone https://github.com/Kathiravan2007/EduLoanMap.git*
+git clone https://github.com/Kathiravan2007/EduLoanMap.git
 
-*cd EduLoanMap*
-
-
-**Install dependencies:**
-
-*pip install -r requirements.txt*
-
+cd EduLoanMap
 
 **Run the app:**
 
 *streamlit run app.py*
-
 
 *Open the URL shown in the terminal to explore your loan options! 🌐*
 
@@ -55,4 +48,5 @@
 M Kathiravan
 
 ✉️ kathiravan.m2025@vitstudent.ac.in
+
 
