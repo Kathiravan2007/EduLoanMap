@@ -1,0 +1,34 @@
+college_name,bank_name,max_loan_amount,interest_rate,collateral_required,notes
+VIT Chennai,Axis Bank,2000000,11.0%,Yes,Private lender option
+VIT Chennai,SBI,750000,9.0%,No,Part of SBI Scholar Scheme (limited programs)
+VIT Chennai,HDFC Credila,2500000,11.5%,No,Tie-up with HDFC Credila for most programs
+IIT Bombay,SBI,750000,8.5%,No,SBI Scholar Loan Scheme
+IIT Delhi,SBI,750000,8.5%,No,SBI Scholar Loan Scheme
+IIT Madras,SBI,750000,8.5%,No,SBI Scholar Loan Scheme
+IIM Ahmedabad,SBI,750000,8.5%,No,SBI Scholar Loan Scheme
+BITS Pilani,HDFC Credila,3000000,11.25%,No,Official tie-up with Credila
+VIT Vellore,Axis Bank,2000000,11.0%,Yes,Private lender option
+VIT Vellore,SBI,750000,9.0%,No,Part of SBI Scholar Scheme (limited programs)
+VIT Vellore,HDFC Credila,2500000,11.5%,No,Tie-up with HDFC Credila for most programs
+Manipal University,HDFC Credila,2500000,11.5%,No,Tie-up with HDFC Credila
+Amity University,ICICI Bank,1500000,11.75%,Yes,General education loan
+SRM University,Punjab National Bank,1000000,10.5%,Yes,Regular education loan
+Loyola College,State Bank of India,600000,10.0%,No,Special loan scheme for arts students
+Loyola College,HDFC Credila,700000,11.0%,No,Easy processing for Loyola students
+St. Xavier's College,ICICI Bank,500000,10.5%,Yes,Requires co-applicant
+St. Xavier's College,Axis Bank,550000,10.75%,No,Collateral waived under special scheme
+Lady Shri Ram College,SBI,650000,9.75%,No,Women-centric loan offers
+Lady Shri Ram College,HDFC Credila,700000,10.25%,No,Flexible repayment options
+Delhi University (Arts),SBI,500000,9.5%,No,Linked with DU scholarships
+Delhi University (Arts),ICICI Bank,550000,10.0%,Yes,Requires collateral for high amounts
+Miranda House,Axis Bank,600000,10.2%,No,Offers education loan at concessional rates
+Christ University,State Bank of India,700000,10.5%,No,Collateral-free for UG courses
+Christ University,HDFC Credila,800000,11.0%,No,Special partnership loan
+Jadavpur University,Union Bank,650000,10.8%,Yes,Collateral required over 5 lakh
+Jadavpur University,SBI,600000,9.8%,No,Flexible repayment tenure
+Delhi University,Union Bank,750000,9.0%,Yes,Depends on course and location
+Christ University,Kotak Mahindra,1000000,11.25%,Yes,Loan up to ₹10L with collateral
+NIT Trichy,SBI,750000,8.5%,No,SBI Scholar Loan Scheme
+IIM Bangalore,HDFC Credila,4000000,11.0%,No,Collateral-free for top IIMs
+IIIT Hyderabad,Axis Bank,2000000,10.75%,Yes,Partnered for select programs
+ISB Hyderabad,ICICI Bank,3000000,10.5%,No,Executive education support
