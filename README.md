@@ -22,6 +22,7 @@ As a student myself, facing hefty college fees was daunting. Even though my coll
 Clone this repo:
 
 git clone https://github.com/Kathiravan2007/EduLoanMap.git
+
 cd EduLoanMap
 
 
@@ -52,4 +53,5 @@ Collect user feedback & reviews for better loan decisions 📢
 Got questions, feedback, or want to collaborate? Reach out!
 
 Your Name
+
 ✉️ kathiravan.m2025@vitstudent.ac.in
