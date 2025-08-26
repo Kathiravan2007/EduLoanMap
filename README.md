@@ -17,6 +17,27 @@ Education is the key to a brighter future, but soaring college fees often block 
 
 As a student myself, facing hefty college fees was daunting. Even though my college partnered with banks offering collateral-free loans, many of us didn’t know how to access them. EduLoanMap is built to bridge this knowledge gap and help students and parents take charge of their education financing! 🎓💪
 
+## 📊 Dataset Details
+
+The project uses a dataset file named `colleges.csv`, which contains loan-related information for various colleges and their branches.
+
+### 🧾 File: `colleges.csv`
+
+Each row in the CSV represents a specific **college branch** and the **loan offer** details available for students in that branch.
+
+### 📁 Columns
+
+| Column Name       | Description                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| `College Name`    | Name of the college (e.g., "ABC Institute of Technology")                   |
+| `Branch`          | Department or course (e.g., "Computer Science", "Mechanical Engineering")   |
+| `Bank`            | Name of the bank providing the loan (e.g., "State Bank of India")           |
+| `Loan Amount`     | Maximum loan amount available (in INR) (e.g., "10,00,000")                  |
+| `Interest Rate`   | Interest rate offered for the loan (e.g., "7.5%")                           |
+| `Collateral`      | Whether collateral is required ("Yes" or "No")                              |
+
+### 🔍 Sample Entries
+
 **🏃 How to Run**
 
 **First create a project folder and save the app.py and colleges.csv in it**
@@ -72,6 +93,7 @@ Got questions, feedback, or want to collaborate? Reach out!
 M Kathiravan
 
 ✉️ kathiravan.m2025@vitstudent.ac.in
+
 
 
 
