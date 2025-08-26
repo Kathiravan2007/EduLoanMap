@@ -19,11 +19,22 @@ As a student myself, facing hefty college fees was daunting. Even though my coll
 
 **🏃 How to Run**
 
-**Clone this repo:**
+**First create a project folder and save the app.py and colleges.csv in it**
 
-git clone https://github.com/Kathiravan2007/EduLoanMap.git
+**Now Do these Steps in your Command Prompt Window**
 
-cd EduLoanMap
+**Navigate to the Project Folder:**
+
+cd C:\Users\YourName\Documents\EduLoanMap
+
+**Create and Activate a Virtual Environment**
+
+python -m venv venv
+venv\Scripts\activate
+
+**Install Dependencies**
+
+pip install streamlit pandas
 
 **Run the app:**
 
@@ -61,6 +72,7 @@ Got questions, feedback, or want to collaborate? Reach out!
 M Kathiravan
 
 ✉️ kathiravan.m2025@vitstudent.ac.in
+
 
 
 
